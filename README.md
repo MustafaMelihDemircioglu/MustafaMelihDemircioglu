@@ -5,7 +5,7 @@ Computer Science and Engineering student at Sabancı University and passionate s
 Lifelong learner.
 
 - 🌱 I’m currently learning iOS development, .NET Core, React-Native.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mustafa-melih-demircioglu/)https://www.linkedin.com/in/mustafa-melih-demircioglu/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mustafa-melih-demircioglu/)
 
 <!--
 **MustafaMelihDemircioglu/MustafaMelihDemircioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
